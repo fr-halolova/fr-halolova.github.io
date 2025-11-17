@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo Blox | Hugo Academic CV Theme</title>
-    <link>https://example.com/tags/hugo-blox/</link>
-      <atom:link href="https://example.com/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/hugo-blox/</link>
+      <atom:link href="http://localhost:1313/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo Blox</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_982c5d63a71b2961.png</url>
+      <url>http://localhost:1313/media/icon_hu_982c5d63a71b2961.png</url>
       <title>Hugo Blox</title>
-      <link>https://example.com/tags/hugo-blox/</link>
+      <link>http://localhost:1313/tags/hugo-blox/</link>
     </image>
     
     <item>
       <title>Learn Hugo Blox in 10 minutes!</title>
-      <link>https://example.com/courses/hugo-blox/</link>
+      <link>http://localhost:1313/courses/hugo-blox/</link>
       <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/courses/hugo-blox/</guid>
+      <guid>http://localhost:1313/courses/hugo-blox/</guid>
       <description>&lt;p&gt;👋 Welcome to your shiny new site. Ready to learn more?&lt;/p&gt;
 &lt;p&gt;This course provides a brief introduction to creating and editing your site with Hugo Blox. For full documentation, refer to the 
 .&lt;/p&gt;
@@ -39,9 +39,9 @@
     
     <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>https://example.com/blog/get-started/</link>
+      <link>http://localhost:1313/blog/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/get-started/</guid>
+      <guid>http://localhost:1313/blog/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -329,9 +329,9 @@
     
     <item>
       <title>📈 Communicate your results effectively with the best data visualizations</title>
-      <link>https://example.com/blog/data-visualization/</link>
+      <link>http://localhost:1313/blog/data-visualization/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/data-visualization/</guid>
+      <guid>http://localhost:1313/blog/data-visualization/</guid>
       <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
 &lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
 &lt;h2 id=&#34;embed-rich-content&#34;&gt;Embed Rich Content&lt;/h2&gt;
@@ -676,7 +676,7 @@ CC-0
 
 
 
-&lt;div id=&#34;chart-741893562&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-532647918&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     async function fetchChartJSON() {
@@ -694,7 +694,7 @@ CC-0
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-741893562&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-532647918&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -877,7 +877,7 @@ Crash --&gt; [*]
 &lt;div class=&#34;text-left&#34;&gt;
   &lt;a
     id=&#34;button-f6d402d3e0ef4f7871a71f74ddcbf5cc&#34;
-    href=&#34;https://example.com/&#34;
+    href=&#34;http://localhost:1313/&#34;
     
     
     
@@ -962,7 +962,7 @@ Crash --&gt; [*]
 &lt;div class=&#34;text-left&#34;&gt;
   &lt;a
     id=&#34;button-73171eb1b49c461e90dab01f45a3397d&#34;
-    href=&#34;https://example.com/data/results.csv&#34;
+    href=&#34;http://localhost:1313/data/results.csv&#34;
     
     
     
@@ -1085,9 +1085,9 @@ Crash --&gt; [*]
     
     <item>
       <title>✅ Manage your projects</title>
-      <link>https://example.com/blog/project-management/</link>
+      <link>http://localhost:1313/blog/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/project-management/</guid>
+      <guid>http://localhost:1313/blog/project-management/</guid>
       <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
